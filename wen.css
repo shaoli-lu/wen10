@@ -12,11 +12,12 @@
 }
 
 div {
-    animation-name: grow;
-    animation-duration: 60s;
-    animation-fill-mode: forwards;
+    /* animation-name: grow; */
+    /* animation-duration: 60s; */
+    /* animation-fill-mode: forwards; */
     margin-left: 5px;
-    
+    font-size: 28px; 
+    color:purple;
 }
 
 .county {
